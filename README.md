@@ -7,7 +7,6 @@
 - 💬 Ask me about  **React, React Native,** and **Automation Hacks**
 
 <hr />
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdmathew)](https://github.com/anuraghazra/github-readme-stats)
 
 ### The Tools I use
 
@@ -34,7 +33,16 @@
 
 </p>
 
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+Week: 11 July, 2020 - 17 July, 2020
+```text
+Python      8 hrs 52 mins       ███████████████████░░░░░░   75.87 %
+Go          1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Markdown    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Docker      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+YAML        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+```
 <!--END_SECTION:waka-->
 
 
@@ -49,11 +57,29 @@
 <p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</p>
 <!-- See https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/jdmathew">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdmathew&show_icons=true&theme=buefy" alt="jdmathew" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmathew&layout=compact&hide=html&theme=buefy" alt="jdmathew" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jdmathew&show_icons=true&theme=buefy&count_private=true" alt="jdmathew" height=170 width=40% />
+</a>
+<a href="https://github.com/jdmathew">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmathew&layout=compact&hide=html&theme=buefy&langs_count=6" alt="jdmathew" height=170  width=40% />
+  </a>
+  <a align="center" href="https://github.com/jdmathew">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jdmathew" alt="jdmathew"  />
 </a>
 
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+
 <hr />
+
+
 
 ### You Can Stalk Me Here
 
