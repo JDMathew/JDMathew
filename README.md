@@ -56,6 +56,7 @@ YAML        7 mins              ░░░░░░░░░░░░░░░░
 
 <p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</p>
 <!-- See https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
 <a href="https://github.com/jdmathew">
   <img src="https://github-readme-stats.vercel.app/api?username=jdmathew&show_icons=true&theme=buefy&count_private=true" alt="jdmathew" height=170 width=40% />
 </a>
@@ -65,7 +66,7 @@ YAML        7 mins              ░░░░░░░░░░░░░░░░
   <a align="center" href="https://github.com/jdmathew">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jdmathew" alt="jdmathew"  />
 </a>
-
+</p>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -75,6 +76,20 @@ YAML        7 mins              ░░░░░░░░░░░░░░░░
 <!--END_SECTION:activity-->
 
 </details>
+
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+
+I am a Full Stack Developer, with a focus on Mobile application, 5+ years of experience in enterprise and open-source software.
+
+
+<!-- Most of my leisure time is .... -->
+
+<!-- ### Awards and Achievements
+- Won the 1st edition of ..
+- Won ... -->
+</details> 
 
 
 <hr />
