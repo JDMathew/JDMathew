@@ -23,10 +23,11 @@ I am a Full Stack Developer, with a focus on Mobile application, 5+ years of exp
 - Won ... -->
 </details> 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
 <!--   https://github.com/Readme-Workflows/recent-activity -->
 <!--   https://github.com/marketplace/actions/github-activity-readme -->
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [JDMathew/Template-website](https://github.com/JDMathew/Template-website)
 2. ⭐ Starred [JDMathew/Template-website](https://github.com/JDMathew/Template-website)
@@ -40,6 +41,8 @@ Last Updated: Thursday, February 17th, 2022, 1:02:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jdmathew&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 ### The Tools I use
 
