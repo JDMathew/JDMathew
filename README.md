@@ -27,9 +27,9 @@ I am a Full Stack Developer, with a focus on Mobile application, 5+ years of exp
   <summary>:zap: Recent GitHub Activity</summary>
 <!--   https://github.com/Readme-Workflows/recent-activity -->
 <!--   https://github.com/marketplace/actions/github-activity-readme -->
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 </details>
 
