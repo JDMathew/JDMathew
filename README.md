@@ -29,15 +29,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 5+ years of exp
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JDMathew/Template-website](https://github.com/JDMathew/Template-website)
+1. ⭐ Starred [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
 2. ⭐ Starred [JDMathew/Template-website](https://github.com/JDMathew/Template-website)
-3. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 📔 Created new repository [JDMathew/JDMathew](https://github.com/JDMathew/JDMathew)
-5. 💬 Commented on [#8139](https://github.com/react-navigation/react-navigation/issues/8139#issuecomment-1041296665) in [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
+3. ⭐ Starred [JDMathew/Template-website](https://github.com/JDMathew/Template-website)
+4. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+5. 📔 Created new repository [JDMathew/JDMathew](https://github.com/JDMathew/JDMathew)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 17th, 2022, 2:16:45 PM
+Last Updated: Thursday, February 17th, 2022, 2:37:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
