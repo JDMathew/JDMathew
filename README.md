@@ -26,7 +26,7 @@ I am a Full Stack Developer, with a focus on Mobile application, 5+ years of exp
 <!--   https://github.com/Readme-Workflows/recent-activity -->
 <!--   https://github.com/marketplace/actions/github-activity-readme -->
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary><b>:zap: Recent GitHub Activity<b></summary>
   
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
@@ -41,8 +41,8 @@ Last Updated: Thursday, February 17th, 2022, 2:37:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jdmathew&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<!-- 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jdmathew&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 
 ### The Tools I use
 
