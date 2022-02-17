@@ -1,13 +1,11 @@
-# Hi there. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Justin, welcome to my GitHub!
+[<img src="https://user-images.githubusercontent.com/17250443/154528290-f80436ad-435e-47f1-9611-e020579c25e9.gif" alt="👋 Hi there! I'm Justin" title="👋 Hi there! I'm Justin )"/>](https://github.com/JDMathew/)
 
-
+## :book: Highlights 
 - 🔭 I’m currently working on **cross-platform applications with React Native** <img src="https://tinyurl.com/rngithub" width="15px" />
 - 🌱 I’m currently learning **Rust**  <img src="https://tinyurl.com/2s3f82sy" width="15px" /> and **TensorFlow.js**.
 - 👯 I’m looking to collaborate on social enterprise applications 
 - 💬 Ask me about  **React, React Native,** and **Automation Hacks**
-
-<hr />
-
+<br />
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
@@ -43,6 +41,8 @@ Last Updated: Thursday, February 17th, 2022, 2:37:22 PM
 </details>
 <!-- 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jdmathew&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
+
+<br />
 
 ### The Tools I use
 
