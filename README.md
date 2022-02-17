@@ -26,7 +26,7 @@ I am a Full Stack Developer, with a focus on Mobile application, 5+ years of exp
 <!--   https://github.com/Readme-Workflows/recent-activity -->
 <!--   https://github.com/marketplace/actions/github-activity-readme -->
 <details>
-  <summary><b>:zap: Recent GitHub Activity<b></summary>
+  <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
