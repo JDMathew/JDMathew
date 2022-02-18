@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 5+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
-2. ⭐ Starred [JDMathew/Template-website](https://github.com/JDMathew/Template-website)
-3. ⭐ Starred [JDMathew/Template-website](https://github.com/JDMathew/Template-website)
-4. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-5. 📔 Created new repository [JDMathew/JDMathew](https://github.com/JDMathew/JDMathew)
+1. ⭐ Starred [zyedidia/micro](https://github.com/zyedidia/micro)
+2. ⭐ Starred [apollographql/apollo-client](https://github.com/apollographql/apollo-client)
+3. ⭐ Starred [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+4. ⭐ Starred [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
+5. ⭐ Starred [JDMathew/Template-website](https://github.com/JDMathew/Template-website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 17th, 2022, 2:37:22 PM
+Last Updated: Friday, February 18th, 2022, 12:21:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
