@@ -11,7 +11,7 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Full Stack Developer, with a focus on Mobile application, 5+ years of experience in enterprise and open-source software.
+I am a Full Stack Developer, with a focus on Mobile application, 7+ years of experience in enterprise and open-source software. I have a background is in Mechanical Engineering, Software development and Financial management with a B.Sc.Eng (Hons) in Mechanical Engineering - AMIMechE.
 
 
 <!-- Most of my leisure time is .... -->
