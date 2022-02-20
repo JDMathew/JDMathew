@@ -124,7 +124,7 @@ YAML        7 mins              ░░░░░░░░░░░░░░░░
 <hr />
 
 
-<p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</p>
+<p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="mailto:justindavidmathew@gmail.com" target="_blank">contact me</a> if you want to know more about my skills.</p>
 <!-- See https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <a href="https://github.com/jdmathew">
@@ -134,7 +134,7 @@ YAML        7 mins              ░░░░░░░░░░░░░░░░
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmathew&layout=compact&hide=html&theme=buefy&langs_count=6" alt="jdmathew" height=170  width=40% />
   </a>
   <a align="center" href="https://github.com/jdmathew">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jdmathew" alt="jdmathew"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jdmathew" alt="jdmathew" width=40% />
 </a>
 </p>
 
