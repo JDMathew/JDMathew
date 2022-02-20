@@ -7,7 +7,7 @@
 - 💬 Ask me about  **React, React Native,** and **Automation Hacks**
 <br />
 
-<details>
+<details open>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
@@ -42,17 +42,59 @@ Last Updated: Sunday, February 20th, 2022, 12:25:37 AM
 <!-- 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jdmathew&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 
+
+<!-- 📊 **Weekly development breakdown** -->
+<!-- https://github.com/athul/waka-readme -->
+<!--START_SECTION:waka-->
+<!-- Week: 11 July, 2020 - 17 July, 2020 -->
+<!-- 
+```text
+Python      8 hrs 52 mins       ███████████████████░░░░░░   75.87 %
+Go          1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Markdown    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Docker      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+YAML        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+```
+ -->
+<!--END_SECTION:waka-->
+
+
+<!-- ### My Most Recent Blog Posts -->
+<!-- MEDIUM:START -->
+
+<!-- MEDIUM:END -->
+
+<!-- <hr /> -->
+
 <br />
 
-### The Tools I use
+## :bar_chart: Statistics
+<p>Statistics are extracted from my public activity and does not reflect completely the work I do with my clients. Feel free to <a href="mailto:justindavidmathew@gmail.com" target="_blank">contact me</a> if you want to know more about my skills.</p>
+<!-- See https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<a href="https://github.com/jdmathew">
+  <img src="https://github-readme-stats.vercel.app/api?username=jdmathew&show_icons=true&theme=buefy&count_private=true" alt="jdmathew" height=170 width=40% />
+</a>
+<a href="https://github.com/jdmathew">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmathew&layout=compact&hide=html&theme=buefy&langs_count=6" alt="jdmathew" height=170  width=40% />
+  </a>
+  <a align="center" href="https://github.com/jdmathew">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jdmathew" alt="jdmathew" width=40% />
+</a>
+</p>
+
+### :wrench: The Tools I use
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="32" height="32"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-tile.svg" alt="appcenter" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
-  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="32" height="32"/>
+  <img src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png" alt="styledcomponents" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="32" height="32"/>
   <img src="https://cms-react-testing.cdn.prismic.io/cms-react-testing/fd794b96-f464-432b-b79a-bf99341b2143_insomnia-logo-bug.svg" alt="figma" width="32" height="32"/>
 <img src="https://tinyurl.com/yry65tsw" alt="postman" width="32" height="32" />
   <img src="https://axios-http.com/assets/logo.svg" alt="axios" width="32" height="32" />
@@ -70,6 +112,8 @@ Last Updated: Sunday, February 20th, 2022, 12:25:37 AM
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="32" height="32"/> -->
 
 </p>
+
+<br />
 
 <!-- <h3>Things I code with</h3>
 <p>
@@ -100,59 +144,21 @@ Last Updated: Sunday, February 20th, 2022, 12:25:37 AM
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
  -->
-📊 **Weekly development breakdown**
-<!-- https://github.com/athul/waka-readme -->
-<!--START_SECTION:waka-->
-Week: 11 July, 2020 - 17 July, 2020
-<!-- 
-```text
-Python      8 hrs 52 mins       ███████████████████░░░░░░   75.87 %
-Go          1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Markdown    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Docker      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-YAML        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-```
- -->
-<!--END_SECTION:waka-->
 
 
-<!-- ### My Most Recent Blog Posts -->
-<!-- MEDIUM:START -->
-
-<!-- MEDIUM:END -->
-
-<hr />
 
 
-<p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="mailto:justindavidmathew@gmail.com" target="_blank">contact me</a> if you want to know more about my skills.</p>
-<!-- See https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<a href="https://github.com/jdmathew">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdmathew&show_icons=true&theme=buefy&count_private=true" alt="jdmathew" height=170 width=40% />
+
+## Socials
+
+<a href="https://www.linkedin.com/in/justin-mathew-25322087/">
+  <img align="left" alt="Justin Mathew | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/jdmathew">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmathew&layout=compact&hide=html&theme=buefy&langs_count=6" alt="jdmathew" height=170  width=40% />
-  </a>
-  <a align="center" href="https://github.com/jdmathew">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jdmathew" alt="jdmathew" width=40% />
-</a>
-</p>
-
-
-<hr />
-
-
-
-### You Can Stalk Me Here
-
 <!-- <a href="https://dev.to/jdmathew">
   <img align="left" alt="Justin Mathew | DEV TO" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a> -->
 <a href="https://medium.com/@justindavidmathew">
   <img align="left" alt="Justin Mathew | Medium" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.linkedin.com/in/justin-mathew-25322087/">
-  <img align="left" alt="Justin Mathew | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.producthunt.com/@justinmathew">
   <img align="left" alt="Justin Mathew | Product Hunt" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/producthunt.svg" />
