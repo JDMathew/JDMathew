@@ -73,14 +73,14 @@ YAML        7 mins              ░░░░░░░░░░░░░░░░
 <!-- See https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <a href="https://github.com/jdmathew">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdmathew&show_icons=true&theme=buefy&count_private=true" alt="jdmathew" height=170 width=40% />
+  <img src="https://github-readme-stats.vercel.app/api?username=jdmathew&show_icons=true&theme=buefy&count_private=true" alt="jdmathew" height=180 width=45% />
 </a>
 <a href="https://github.com/jdmathew">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmathew&layout=compact&hide=html&theme=buefy&langs_count=6" alt="jdmathew" height=170  width=40% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmathew&layout=compact&hide=html&theme=buefy&langs_count=6" alt="jdmathew" height=180  width=45% />
   </a>
-  <a align="center" href="https://github.com/jdmathew">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jdmathew" alt="jdmathew" width=40% />
-</a>
+<!-- <a align="center" href="https://github.com/jdmathew">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jdmathew" alt="jdmathew" width=45% />
+</a> -->
 </p>
 
 ### :wrench: The Tools I use
@@ -147,6 +147,10 @@ YAML        7 mins              ░░░░░░░░░░░░░░░░
 
 
 
+<a href="https://github.com/jdmathew">
+  <img align="left" src="https://komarev.com/ghpvc/?username=jdmathew" alt="jdmathew" />
+</a>
+<br />
 
 
 ## Socials
@@ -172,8 +176,5 @@ YAML        7 mins              ░░░░░░░░░░░░░░░░
 <!-- <a href="https://twitter.com/JustinDMathew">
   <img align="left" alt="Justin Mathew | Twitter" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
-<br />
-<a href="https://github.com/jdmathew">
-  <img align="left" src="https://komarev.com/ghpvc/?username=jdmathew" alt="jdmathew" />
-</a>
+
 
