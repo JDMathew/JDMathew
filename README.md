@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zyedidia/micro](https://github.com/zyedidia/micro)
-2. ⭐ Starred [apollographql/apollo-client](https://github.com/apollographql/apollo-client)
-3. ⭐ Starred [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
-4. ⭐ Starred [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
-5. ⭐ Starred [JDMathew/Template-website](https://github.com/JDMathew/Template-website)
+1. 🔱 Forked [JDMathew/Monorepo](https://github.com/JDMathew/Monorepo) from [StateOfJS/Monorepo](https://github.com/StateOfJS/Monorepo)
+2. ⭐ Starred [zyedidia/micro](https://github.com/zyedidia/micro)
+3. ⭐ Starred [apollographql/apollo-client](https://github.com/apollographql/apollo-client)
+4. ⭐ Starred [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+5. ⭐ Starred [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 20th, 2022, 12:25:37 AM
+Last Updated: Monday, February 21st, 2022, 12:21:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
