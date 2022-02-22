@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [JDMathew/Monorepo](https://github.com/JDMathew/Monorepo) from [StateOfJS/Monorepo](https://github.com/StateOfJS/Monorepo)
-2. ⭐ Starred [zyedidia/micro](https://github.com/zyedidia/micro)
-3. ⭐ Starred [apollographql/apollo-client](https://github.com/apollographql/apollo-client)
-4. ⭐ Starred [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
-5. ⭐ Starred [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)
+1. ⭐ Starred [FormidableLabs/victory](https://github.com/FormidableLabs/victory)
+2. ⭐ Starred [FormidableLabs/react-fast-compare](https://github.com/FormidableLabs/react-fast-compare)
+3. ⭐ Starred [FormidableLabs/runpkg](https://github.com/FormidableLabs/runpkg)
+4. ⭐ Starred [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)
+5. ⭐ Starred [FormidableLabs/urql](https://github.com/FormidableLabs/urql)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 21st, 2022, 12:21:50 AM
+Last Updated: Tuesday, February 22nd, 2022, 12:21:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
