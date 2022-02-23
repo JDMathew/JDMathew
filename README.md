@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FormidableLabs/victory](https://github.com/FormidableLabs/victory)
-2. ⭐ Starred [FormidableLabs/react-fast-compare](https://github.com/FormidableLabs/react-fast-compare)
-3. ⭐ Starred [FormidableLabs/runpkg](https://github.com/FormidableLabs/runpkg)
-4. ⭐ Starred [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)
-5. ⭐ Starred [FormidableLabs/urql](https://github.com/FormidableLabs/urql)
+1. ⭐ Starred [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
+2. ⭐ Starred [FormidableLabs/victory](https://github.com/FormidableLabs/victory)
+3. ⭐ Starred [FormidableLabs/react-fast-compare](https://github.com/FormidableLabs/react-fast-compare)
+4. ⭐ Starred [FormidableLabs/runpkg](https://github.com/FormidableLabs/runpkg)
+5. ⭐ Starred [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 22nd, 2022, 12:21:28 AM
+Last Updated: Wednesday, February 23rd, 2022, 12:24:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
