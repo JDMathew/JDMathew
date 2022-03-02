@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dabbott/react-native-express](https://github.com/dabbott/react-native-express)
-2. ⭐ Starred [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
-3. ⭐ Starred [FormidableLabs/victory](https://github.com/FormidableLabs/victory)
-4. ⭐ Starred [FormidableLabs/react-fast-compare](https://github.com/FormidableLabs/react-fast-compare)
-5. ⭐ Starred [FormidableLabs/runpkg](https://github.com/FormidableLabs/runpkg)
+1. ⭐ Starred [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)
+2. ⭐ Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+3. ⭐ Starred [gnachman/iTerm2](https://github.com/gnachman/iTerm2)
+4. ⭐ Starred [shpakovski/MASShortcut](https://github.com/shpakovski/MASShortcut)
+5. ⭐ Starred [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 1st, 2022, 12:23:38 AM
+Last Updated: Wednesday, March 2nd, 2022, 12:22:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
