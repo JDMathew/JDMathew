@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)
-2. ⭐ Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-3. ⭐ Starred [gnachman/iTerm2](https://github.com/gnachman/iTerm2)
-4. ⭐ Starred [shpakovski/MASShortcut](https://github.com/shpakovski/MASShortcut)
-5. ⭐ Starred [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
+1. ⭐ Starred [CocoaPods/cocoapods-downloader](https://github.com/CocoaPods/cocoapods-downloader)
+2. ⭐ Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+3. ⭐ Starred [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)
+4. ⭐ Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+5. ⭐ Starred [gnachman/iTerm2](https://github.com/gnachman/iTerm2)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 2nd, 2022, 12:22:36 AM
+Last Updated: Thursday, March 3rd, 2022, 12:25:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
