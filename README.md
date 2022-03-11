@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#31181](https://github.com/facebook/react-native/issues/31181#issuecomment-1063185411) in [facebook/react-native](https://github.com/facebook/react-native)
-2. 💬 Commented on [#166](https://github.com/agencyenterprise/react-native-health/issues/166#issuecomment-1063034864) in [agencyenterprise/react-native-health](https://github.com/agencyenterprise/react-native-health)
-3. 💬 Commented on [#201](https://github.com/agencyenterprise/react-native-health/issues/201#issuecomment-1063025700) in [agencyenterprise/react-native-health](https://github.com/agencyenterprise/react-native-health)
-4. 💬 Commented on [#31181](https://github.com/facebook/react-native/issues/31181#issuecomment-1061986993) in [facebook/react-native](https://github.com/facebook/react-native)
-5. 💬 Commented on [#9061](https://github.com/apollographql/apollo-client/issues/9061#issuecomment-1061863447) in [apollographql/apollo-client](https://github.com/apollographql/apollo-client)
+1. ⭐ Starred [getsentry/sentry-react-native](https://github.com/getsentry/sentry-react-native)
+2. 💬 Commented on [#31181](https://github.com/facebook/react-native/issues/31181#issuecomment-1063185411) in [facebook/react-native](https://github.com/facebook/react-native)
+3. 💬 Commented on [#166](https://github.com/agencyenterprise/react-native-health/issues/166#issuecomment-1063034864) in [agencyenterprise/react-native-health](https://github.com/agencyenterprise/react-native-health)
+4. 💬 Commented on [#201](https://github.com/agencyenterprise/react-native-health/issues/201#issuecomment-1063025700) in [agencyenterprise/react-native-health](https://github.com/agencyenterprise/react-native-health)
+5. 💬 Commented on [#31181](https://github.com/facebook/react-native/issues/31181#issuecomment-1061986993) in [facebook/react-native](https://github.com/facebook/react-native)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 10th, 2022, 12:20:52 AM
+Last Updated: Friday, March 11th, 2022, 12:27:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
