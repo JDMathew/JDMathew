@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [infinitered/reactotron](https://github.com/infinitered/reactotron)
-2. ⭐ Starred [hoaphantn7604/react-native-virtualized-view](https://github.com/hoaphantn7604/react-native-virtualized-view)
-3. 💬 Commented on [#2500](https://github.com/react-native-video/react-native-video/issues/2500#issuecomment-1068014412) in [react-native-video/react-native-video](https://github.com/react-native-video/react-native-video)
-4. 💬 Commented on [#1269](https://github.com/DoubleSymmetry/react-native-track-player/pull/1269#issuecomment-1067977270) in [DoubleSymmetry/react-native-track-player](https://github.com/DoubleSymmetry/react-native-track-player)
-5. ⭐ Starred [getsentry/sentry-react-native](https://github.com/getsentry/sentry-react-native)
+1. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+2. ⭐ Starred [infinitered/reactotron](https://github.com/infinitered/reactotron)
+3. ⭐ Starred [hoaphantn7604/react-native-virtualized-view](https://github.com/hoaphantn7604/react-native-virtualized-view)
+4. 💬 Commented on [#2500](https://github.com/react-native-video/react-native-video/issues/2500#issuecomment-1068014412) in [react-native-video/react-native-video](https://github.com/react-native-video/react-native-video)
+5. 💬 Commented on [#1269](https://github.com/DoubleSymmetry/react-native-track-player/pull/1269#issuecomment-1067977270) in [DoubleSymmetry/react-native-track-player](https://github.com/DoubleSymmetry/react-native-track-player)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 22nd, 2022, 12:24:30 AM
+Last Updated: Wednesday, March 23rd, 2022, 12:28:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
