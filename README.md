@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#532](https://github.com/hossein-zare/react-native-dropdown-picker/issues/532#issuecomment-1090943962) in [hossein-zare/react-native-dropdown-picker](https://github.com/hossein-zare/react-native-dropdown-picker)
-2. 💬 Commented on [#14](https://github.com/RisingStack/react-easy-state/issues/14#issuecomment-1090914394) in [RisingStack/react-easy-state](https://github.com/RisingStack/react-easy-state)
-3. 💪 Opened PR [#533](https://github.com/hossein-zare/react-native-dropdown-picker/pull/533) in [hossein-zare/react-native-dropdown-picker](https://github.com/hossein-zare/react-native-dropdown-picker)
-4. 🔱 Forked [JDMathew/react-native-dropdown-picker](https://github.com/JDMathew/react-native-dropdown-picker) from [hossein-zare/react-native-dropdown-picker](https://github.com/hossein-zare/react-native-dropdown-picker)
-5. ❗️ Opened issue [#532](https://github.com/hossein-zare/react-native-dropdown-picker/issues/532) in [hossein-zare/react-native-dropdown-picker](https://github.com/hossein-zare/react-native-dropdown-picker)
+1. 💬 Commented on [#532](https://github.com/hossein-zare/react-native-dropdown-picker/issues/532#issuecomment-1091856658) in [hossein-zare/react-native-dropdown-picker](https://github.com/hossein-zare/react-native-dropdown-picker)
+2. ✔️ Closed issue [#532](https://github.com/hossein-zare/react-native-dropdown-picker/issues/532) in [hossein-zare/react-native-dropdown-picker](https://github.com/hossein-zare/react-native-dropdown-picker)
+3. 💬 Commented on [#532](https://github.com/hossein-zare/react-native-dropdown-picker/issues/532#issuecomment-1090943962) in [hossein-zare/react-native-dropdown-picker](https://github.com/hossein-zare/react-native-dropdown-picker)
+4. 💬 Commented on [#14](https://github.com/RisingStack/react-easy-state/issues/14#issuecomment-1090914394) in [RisingStack/react-easy-state](https://github.com/RisingStack/react-easy-state)
+5. 💪 Opened PR [#533](https://github.com/hossein-zare/react-native-dropdown-picker/pull/533) in [hossein-zare/react-native-dropdown-picker](https://github.com/hossein-zare/react-native-dropdown-picker)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 7th, 2022, 12:29:31 AM
+Last Updated: Friday, April 8th, 2022, 12:28:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
