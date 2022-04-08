@@ -39,9 +39,13 @@ Last Updated: Friday, April 8th, 2022, 12:28:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
-<!-- 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jdmathew&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 
+<details>
+  <summary><b>:chart_with_upwards_trend: Time Stats</b></summary>
+  
+[![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdmathew&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)](https://wakatime.com/@jdmathew)
+  
+</details>
 
 <!-- 📊 **Weekly development breakdown** -->
 <!-- https://github.com/athul/waka-readme -->
@@ -146,7 +150,7 @@ YAML        7 mins              ░░░░░░░░░░░░░░░░
  -->
 
 
-
+<a href="https://wakatime.com/@30db9f1d-2519-4a35-9c48-01c27f109f5e"><img src="https://wakatime.com/badge/user/30db9f1d-2519-4a35-9c48-01c27f109f5e.svg" alt="Total time coded since Feb 16 2022" /></a>
 <a href="https://github.com/jdmathew">
   <img align="left" src="https://komarev.com/ghpvc/?username=jdmathew" alt="jdmathew" />
 </a>
