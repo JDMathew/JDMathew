@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wellyshen/react-cool-dimensions](https://github.com/wellyshen/react-cool-dimensions)
-2. ⭐ Starred [jquense/yup](https://github.com/jquense/yup)
-3. ⭐ Starred [react-native-masked-view/masked-view](https://github.com/react-native-masked-view/masked-view)
-4. ⭐ Starred [github/copilot-docs](https://github.com/github/copilot-docs)
-5. 💬 Commented on [#532](https://github.com/hossein-zare/react-native-dropdown-picker/issues/532#issuecomment-1091856658) in [hossein-zare/react-native-dropdown-picker](https://github.com/hossein-zare/react-native-dropdown-picker)
+1. ⭐ Starred [prscX/react-native-tooltips](https://github.com/prscX/react-native-tooltips)
+2. ⭐ Starred [iyegoroff/react-native-text-gradient](https://github.com/iyegoroff/react-native-text-gradient)
+3. ⭐ Starred [wellyshen/react-cool-dimensions](https://github.com/wellyshen/react-cool-dimensions)
+4. ⭐ Starred [jquense/yup](https://github.com/jquense/yup)
+5. ⭐ Starred [react-native-masked-view/masked-view](https://github.com/react-native-masked-view/masked-view)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 11th, 2022, 12:26:35 AM
+Last Updated: Tuesday, April 12th, 2022, 12:24:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
