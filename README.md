@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1468](https://github.com/doublesymmetry/react-native-track-player/issues/1468#issuecomment-1095829238) in [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player)
-2. ⭐ Starred [prscX/react-native-tooltips](https://github.com/prscX/react-native-tooltips)
-3. ⭐ Starred [iyegoroff/react-native-text-gradient](https://github.com/iyegoroff/react-native-text-gradient)
-4. ⭐ Starred [wellyshen/react-cool-dimensions](https://github.com/wellyshen/react-cool-dimensions)
-5. ⭐ Starred [jquense/yup](https://github.com/jquense/yup)
+1. ❗️ Opened issue [#265](https://github.com/react-native-community/react-native-template-typescript/issues/265) in [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript)
+2. 📔 Created new repository [JDMathew/react-native-barcode-gen](https://github.com/JDMathew/react-native-barcode-gen)
+3. ❗️ Opened issue [#537](https://github.com/hossein-zare/react-native-dropdown-picker/issues/537) in [hossein-zare/react-native-dropdown-picker](https://github.com/hossein-zare/react-native-dropdown-picker)
+4. 💬 Commented on [#1468](https://github.com/doublesymmetry/react-native-track-player/issues/1468#issuecomment-1097904860) in [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player)
+5. ❗️ Opened issue [#1469](https://github.com/doublesymmetry/react-native-track-player/issues/1469) in [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 13th, 2022, 12:27:18 AM
+Last Updated: Thursday, April 14th, 2022, 12:31:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
