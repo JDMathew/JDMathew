@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1469](https://github.com/doublesymmetry/react-native-track-player/issues/1469#issuecomment-1104260805) in [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player)
-2. 💬 Commented on [#1481](https://github.com/doublesymmetry/react-native-track-player/pull/1481#issuecomment-1104253728) in [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player)
-3. ⭐ Starred [browniefed/react-native-ticker](https://github.com/browniefed/react-native-ticker)
-4. 💪 Opened PR [#36](https://github.com/browniefed/react-native-ticker/pull/36) in [browniefed/react-native-ticker](https://github.com/browniefed/react-native-ticker)
-5. 🔱 Forked [JDMathew/react-native-ticker](https://github.com/JDMathew/react-native-ticker) from [browniefed/react-native-ticker](https://github.com/browniefed/react-native-ticker)
+1. ⭐ Starred [GingerBear/react-native-barcode-pdf417](https://github.com/GingerBear/react-native-barcode-pdf417)
+2. 💬 Commented on [#1469](https://github.com/doublesymmetry/react-native-track-player/issues/1469#issuecomment-1104260805) in [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player)
+3. 💬 Commented on [#1481](https://github.com/doublesymmetry/react-native-track-player/pull/1481#issuecomment-1104253728) in [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player)
+4. ⭐ Starred [browniefed/react-native-ticker](https://github.com/browniefed/react-native-ticker)
+5. 💪 Opened PR [#36](https://github.com/browniefed/react-native-ticker/pull/36) in [browniefed/react-native-ticker](https://github.com/browniefed/react-native-ticker)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 21st, 2022, 12:29:06 AM
+Last Updated: Friday, April 22nd, 2022, 12:29:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
