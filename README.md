@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3966](https://github.com/invertase/react-native-firebase/pull/3966#issuecomment-1116854583) in [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase)
-2. 💬 Commented on [#265](https://github.com/react-native-community/react-native-template-typescript/issues/265#issuecomment-1109804309) in [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript)
-3. 💬 Commented on [#27](https://github.com/browniefed/react-native-ticker/issues/27#issuecomment-1106370374) in [browniefed/react-native-ticker](https://github.com/browniefed/react-native-ticker)
-4. ⭐ Starred [GingerBear/react-native-barcode-pdf417](https://github.com/GingerBear/react-native-barcode-pdf417)
-5. 💬 Commented on [#1469](https://github.com/doublesymmetry/react-native-track-player/issues/1469#issuecomment-1104260805) in [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player)
+1. ⭐ Starred [kristerkari/pinar](https://github.com/kristerkari/pinar)
+2. 💬 Commented on [#418](https://github.com/Kureev/react-native-blur/pull/418#issuecomment-1121071674) in [Kureev/react-native-blur](https://github.com/Kureev/react-native-blur)
+3. ⭐ Starred [bartgryszko/react-native-circular-slider](https://github.com/bartgryszko/react-native-circular-slider)
+4. ⭐ Starred [meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel)
+5. 💬 Commented on [#3966](https://github.com/invertase/react-native-firebase/pull/3966#issuecomment-1116854583) in [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 9th, 2022, 12:27:51 AM
+Last Updated: Tuesday, May 10th, 2022, 12:32:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
