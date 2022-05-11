@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kristerkari/pinar](https://github.com/kristerkari/pinar)
-2. 💬 Commented on [#418](https://github.com/Kureev/react-native-blur/pull/418#issuecomment-1121071674) in [Kureev/react-native-blur](https://github.com/Kureev/react-native-blur)
-3. ⭐ Starred [bartgryszko/react-native-circular-slider](https://github.com/bartgryszko/react-native-circular-slider)
-4. ⭐ Starred [meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel)
-5. 💬 Commented on [#3966](https://github.com/invertase/react-native-firebase/pull/3966#issuecomment-1116854583) in [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase)
+1. ⭐ Starred [ptomasroos/react-native-multi-slider](https://github.com/ptomasroos/react-native-multi-slider)
+2. 💬 Commented on [#264](https://github.com/ptomasroos/react-native-multi-slider/issues/264#issuecomment-1122997355) in [ptomasroos/react-native-multi-slider](https://github.com/ptomasroos/react-native-multi-slider)
+3. ⭐ Starred [miblanchard/react-native-slider](https://github.com/miblanchard/react-native-slider)
+4. ⭐ Starred [kristerkari/pinar](https://github.com/kristerkari/pinar)
+5. 💬 Commented on [#418](https://github.com/Kureev/react-native-blur/pull/418#issuecomment-1121071674) in [Kureev/react-native-blur](https://github.com/Kureev/react-native-blur)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 10th, 2022, 12:32:22 AM
+Last Updated: Wednesday, May 11th, 2022, 12:30:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
