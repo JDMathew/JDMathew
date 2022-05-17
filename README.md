@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#302](https://github.com/StasDoskalenko/react-native-google-fit/issues/302) in [StasDoskalenko/react-native-google-fit](https://github.com/StasDoskalenko/react-native-google-fit)
-2. ⭐ Starred [githuboftigran/rn-range-slider](https://github.com/githuboftigran/rn-range-slider)
-3. ⭐ Starred [ptomasroos/react-native-multi-slider](https://github.com/ptomasroos/react-native-multi-slider)
-4. 💬 Commented on [#264](https://github.com/ptomasroos/react-native-multi-slider/issues/264#issuecomment-1122997355) in [ptomasroos/react-native-multi-slider](https://github.com/ptomasroos/react-native-multi-slider)
-5. ⭐ Starred [miblanchard/react-native-slider](https://github.com/miblanchard/react-native-slider)
+1. ❗️ Opened issue [#18](https://github.com/Kingstinct/react-native-healthkit/issues/18) in [Kingstinct/react-native-healthkit](https://github.com/Kingstinct/react-native-healthkit)
+2. ❗️ Opened issue [#302](https://github.com/StasDoskalenko/react-native-google-fit/issues/302) in [StasDoskalenko/react-native-google-fit](https://github.com/StasDoskalenko/react-native-google-fit)
+3. ⭐ Starred [githuboftigran/rn-range-slider](https://github.com/githuboftigran/rn-range-slider)
+4. ⭐ Starred [ptomasroos/react-native-multi-slider](https://github.com/ptomasroos/react-native-multi-slider)
+5. 💬 Commented on [#264](https://github.com/ptomasroos/react-native-multi-slider/issues/264#issuecomment-1122997355) in [ptomasroos/react-native-multi-slider](https://github.com/ptomasroos/react-native-multi-slider)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 16th, 2022, 12:30:33 AM
+Last Updated: Tuesday, May 17th, 2022, 12:29:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
