@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#302](https://github.com/StasDoskalenko/react-native-google-fit/issues/302#issuecomment-1130315802) in [StasDoskalenko/react-native-google-fit](https://github.com/StasDoskalenko/react-native-google-fit)
-2. ❗️ Opened issue [#18](https://github.com/Kingstinct/react-native-healthkit/issues/18) in [Kingstinct/react-native-healthkit](https://github.com/Kingstinct/react-native-healthkit)
-3. ❗️ Opened issue [#302](https://github.com/StasDoskalenko/react-native-google-fit/issues/302) in [StasDoskalenko/react-native-google-fit](https://github.com/StasDoskalenko/react-native-google-fit)
-4. ⭐ Starred [githuboftigran/rn-range-slider](https://github.com/githuboftigran/rn-range-slider)
-5. ⭐ Starred [ptomasroos/react-native-multi-slider](https://github.com/ptomasroos/react-native-multi-slider)
+1. 💬 Commented on [#473](https://github.com/doublesymmetry/react-native-track-player/issues/473#issuecomment-1131010546) in [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player)
+2. 💬 Commented on [#302](https://github.com/StasDoskalenko/react-native-google-fit/issues/302#issuecomment-1130315802) in [StasDoskalenko/react-native-google-fit](https://github.com/StasDoskalenko/react-native-google-fit)
+3. ❗️ Opened issue [#18](https://github.com/Kingstinct/react-native-healthkit/issues/18) in [Kingstinct/react-native-healthkit](https://github.com/Kingstinct/react-native-healthkit)
+4. ❗️ Opened issue [#302](https://github.com/StasDoskalenko/react-native-google-fit/issues/302) in [StasDoskalenko/react-native-google-fit](https://github.com/StasDoskalenko/react-native-google-fit)
+5. ⭐ Starred [githuboftigran/rn-range-slider](https://github.com/githuboftigran/rn-range-slider)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 19th, 2022, 12:34:27 AM
+Last Updated: Friday, May 20th, 2022, 12:27:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
