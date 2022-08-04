@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#113](https://github.com/functionland/apps-monorepo/pull/113) in [functionland/apps-monorepo](https://github.com/functionland/apps-monorepo)
-2. ❗️ Opened issue [#112](https://github.com/functionland/apps-monorepo/issues/112) in [functionland/apps-monorepo](https://github.com/functionland/apps-monorepo)
+1. 💬 Commented on [#113](https://github.com/functionland/apps-monorepo/pull/113#discussion_r937149971) in [functionland/apps-monorepo](https://github.com/functionland/apps-monorepo)
+2. 💬 Commented on [#113](https://github.com/functionland/apps-monorepo/pull/113#issuecomment-1204341650) in [functionland/apps-monorepo](https://github.com/functionland/apps-monorepo)
 3. ⬆️ Pushed 1 commit(s) to [functionland/apps-monorepo](https://github.com/functionland/apps-monorepo)
-4. ✔️ Closed issue [#109](https://github.com/functionland/apps-monorepo/issues/109) in [functionland/apps-monorepo](https://github.com/functionland/apps-monorepo)
-5. 🎉 Merged PR [#110](https://github.com/functionland/apps-monorepo/pull/110) in [functionland/apps-monorepo](https://github.com/functionland/apps-monorepo)
+4. 💬 Commented on [#104](https://github.com/functionland/apps-monorepo/pull/104#discussion_r936802004) in [functionland/apps-monorepo](https://github.com/functionland/apps-monorepo)
+5. 💬 Commented on [#105](https://github.com/functionland/apps-monorepo/pull/105#discussion_r936799619) in [functionland/apps-monorepo](https://github.com/functionland/apps-monorepo)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 3rd, 2022, 12:38:26 AM
+Last Updated: Thursday, August 4th, 2022, 12:36:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
