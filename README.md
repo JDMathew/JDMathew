@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
-2. ⭐ Starred [mikehardy/rnfbdemo](https://github.com/mikehardy/rnfbdemo)
-3. ⭐ Starred [tayloraleach/whatthethingis](https://github.com/tayloraleach/whatthethingis)
-4. ⭐ Starred [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo)
-5. 🔱 Forked [JDMathew/react-native-bottom-sheet](https://github.com/JDMathew/react-native-bottom-sheet) from [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
+1. ⭐ Starred [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+2. ⭐ Starred [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)
+3. ⭐ Starred [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
+4. ⭐ Starred [mikehardy/rnfbdemo](https://github.com/mikehardy/rnfbdemo)
+5. ⭐ Starred [tayloraleach/whatthethingis](https://github.com/tayloraleach/whatthethingis)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 13th, 2022, 12:31:46 AM
+Last Updated: Monday, November 14th, 2022, 12:31:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
