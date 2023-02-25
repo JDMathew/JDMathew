@@ -27,12 +27,14 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tol-is/use-scramble](https://github.com/tol-is/use-scramble)<br>
-2. ⭐ Starred [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera)<br>
+1. ⭐ Starred [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text)<br>
+2. ⭐ Starred [jaredpalmer/formik](https://github.com/jaredpalmer/formik)<br>
+3. ⭐ Starred [tol-is/use-scramble](https://github.com/tol-is/use-scramble)<br>
+4. ⭐ Starred [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 24th, 2023, 12:30:11 AM
+Last Updated: Saturday, February 25th, 2023, 12:31:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
