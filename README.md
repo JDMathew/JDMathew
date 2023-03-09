@@ -27,14 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text)<br>
-2. ⭐ Starred [jaredpalmer/formik](https://github.com/jaredpalmer/formik)<br>
-3. ⭐ Starred [tol-is/use-scramble](https://github.com/tol-is/use-scramble)<br>
-4. ⭐ Starred [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera)<br>
+1. ⭐ Starred [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts)<br>
+2. ⭐ Starred [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text)<br>
+3. ⭐ Starred [jaredpalmer/formik](https://github.com/jaredpalmer/formik)<br>
+4. ⭐ Starred [tol-is/use-scramble](https://github.com/tol-is/use-scramble)<br>
+5. ⭐ Starred [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 8th, 2023, 12:32:08 AM
+Last Updated: Thursday, March 9th, 2023, 12:31:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
