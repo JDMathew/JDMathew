@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facebook/idb](https://github.com/facebook/idb)<br>
-2. ⭐ Starred [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts)<br>
-3. ⭐ Starred [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text)<br>
-4. ⭐ Starred [jaredpalmer/formik](https://github.com/jaredpalmer/formik)<br>
-5. ⭐ Starred [tol-is/use-scramble](https://github.com/tol-is/use-scramble)<br>
+1. ⭐ Starred [oblador/react-native-animatable](https://github.com/oblador/react-native-animatable)<br>
+2. ⭐ Starred [facebook/idb](https://github.com/facebook/idb)<br>
+3. ⭐ Starred [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts)<br>
+4. ⭐ Starred [akinncar/react-native-mask-text](https://github.com/akinncar/react-native-mask-text)<br>
+5. ⭐ Starred [jaredpalmer/formik](https://github.com/jaredpalmer/formik)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 21st, 2023, 12:28:10 AM
+Last Updated: Wednesday, March 22nd, 2023, 12:27:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
