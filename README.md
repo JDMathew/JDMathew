@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ayoisaiah/focus](https://github.com/ayoisaiah/focus)<br>
-2. 💪 Opened PR [#87](https://github.com/FormidableLabs/react-native-ama/pull/87) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
-3. 👍 Approved [#84](https://github.com/FormidableLabs/react-native-ama/pull/84#pullrequestreview-1357218743) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
-4. 💪 Opened PR [#85](https://github.com/FormidableLabs/react-native-ama/pull/85) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
-5. ⭐ Starred [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim)<br>
+1. ⭐ Starred [ios-control/ios-deploy](https://github.com/ios-control/ios-deploy)<br>
+2. ⭐ Starred [ayoisaiah/focus](https://github.com/ayoisaiah/focus)<br>
+3. 💪 Opened PR [#87](https://github.com/FormidableLabs/react-native-ama/pull/87) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+4. 👍 Approved [#84](https://github.com/FormidableLabs/react-native-ama/pull/84#pullrequestreview-1357218743) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+5. 💪 Opened PR [#85](https://github.com/FormidableLabs/react-native-ama/pull/85) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 18th, 2023, 12:26:31 AM
+Last Updated: Wednesday, April 19th, 2023, 12:29:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
