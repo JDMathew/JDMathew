@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)<br>
-2. ⭐ Starred [charmbracelet/vhs](https://github.com/charmbracelet/vhs)<br>
-3. ⭐ Starred [Flipkart/recyclerlistview](https://github.com/Flipkart/recyclerlistview)<br>
-4. 💬 Commented on [#2144](https://github.com/software-mansion/react-native-reanimated/issues/2144#issuecomment-1526578999) in [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)<br>
-5. ⭐ Starred [zoontek/react-native-permissions](https://github.com/zoontek/react-native-permissions)<br>
+1. ⭐ Starred [MobileReality/react-native-select-pro](https://github.com/MobileReality/react-native-select-pro)<br>
+2. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)<br>
+3. ⭐ Starred [charmbracelet/vhs](https://github.com/charmbracelet/vhs)<br>
+4. ⭐ Starred [Flipkart/recyclerlistview](https://github.com/Flipkart/recyclerlistview)<br>
+5. 💬 Commented on [#2144](https://github.com/software-mansion/react-native-reanimated/issues/2144#issuecomment-1526578999) in [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 26th, 2023, 12:36:43 AM
+Last Updated: Tuesday, June 27th, 2023, 12:35:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
