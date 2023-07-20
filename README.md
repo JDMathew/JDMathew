@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)<br>
-2. ⭐ Starred [MobileReality/react-native-select-pro](https://github.com/MobileReality/react-native-select-pro)<br>
-3. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)<br>
-4. ⭐ Starred [charmbracelet/vhs](https://github.com/charmbracelet/vhs)<br>
-5. ⭐ Starred [Flipkart/recyclerlistview](https://github.com/Flipkart/recyclerlistview)<br>
+1. ⭐ Starred [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)<br>
+2. ⭐ Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)<br>
+3. ⭐ Starred [MobileReality/react-native-select-pro](https://github.com/MobileReality/react-native-select-pro)<br>
+4. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)<br>
+5. ⭐ Starred [charmbracelet/vhs](https://github.com/charmbracelet/vhs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 19th, 2023, 12:55:30 AM
+Last Updated: Thursday, July 20th, 2023, 12:32:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
