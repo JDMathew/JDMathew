@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)<br>
-2. ⭐ Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)<br>
-3. ⭐ Starred [MobileReality/react-native-select-pro](https://github.com/MobileReality/react-native-select-pro)<br>
-4. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)<br>
-5. ⭐ Starred [charmbracelet/vhs](https://github.com/charmbracelet/vhs)<br>
+1. ⭐ Starred [sapics/geoip-country](https://github.com/sapics/geoip-country)<br>
+2. ⭐ Starred [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)<br>
+3. ⭐ Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)<br>
+4. ⭐ Starred [MobileReality/react-native-select-pro](https://github.com/MobileReality/react-native-select-pro)<br>
+5. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 24th, 2023, 12:31:57 AM
+Last Updated: Tuesday, July 25th, 2023, 12:32:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
