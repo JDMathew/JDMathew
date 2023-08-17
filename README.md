@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jemise111/react-native-swipe-list-view](https://github.com/jemise111/react-native-swipe-list-view)<br>
-2. ⭐ Starred [sapics/geoip-country](https://github.com/sapics/geoip-country)<br>
-3. ⭐ Starred [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)<br>
-4. ⭐ Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)<br>
-5. ⭐ Starred [MobileReality/react-native-select-pro](https://github.com/MobileReality/react-native-select-pro)<br>
+1. ⬆️ Pushed 2 commit(s) to [JDMathew/Template-website](https://github.com/JDMathew/Template-website)<br>
+2. 🎉 Merged PR [#9](https://github.com/JDMathew/Template-website/pull/9) in [JDMathew/Template-website](https://github.com/JDMathew/Template-website)<br>
+3. ⬆️ Pushed 2 commit(s) to [JDMathew/Template-website](https://github.com/JDMathew/Template-website)<br>
+4. 🎉 Merged PR [#5](https://github.com/JDMathew/Template-website/pull/5) in [JDMathew/Template-website](https://github.com/JDMathew/Template-website)<br>
+5. 🎉 Merged PR [#7](https://github.com/JDMathew/Template-website/pull/7) in [JDMathew/Template-website](https://github.com/JDMathew/Template-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 16th, 2023, 12:24:05 AM
+Last Updated: Thursday, August 17th, 2023, 12:23:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
