@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#133](https://github.com/urql-graphql/urql-devtools-exchange/pull/133) in [urql-graphql/urql-devtools-exchange](https://github.com/urql-graphql/urql-devtools-exchange)<br>
-2. ⬆️ Pushed 1 commit(s) to [JDMathew/urql-devtools-exchange](https://github.com/JDMathew/urql-devtools-exchange)<br>
-3. ⭐ Starred [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)<br>
-4. 🔱 Forked [JDMathew/urql-devtools-exchange](https://github.com/JDMathew/urql-devtools-exchange) from [urql-graphql/urql-devtools-exchange](https://github.com/urql-graphql/urql-devtools-exchange)<br>
-5. 💪 Opened PR [#123](https://github.com/FormidableLabs/react-native-ama/pull/123) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+1. 💪 Opened PR [#133](https://github.com/FormidableLabs/react-native-ama/pull/133) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+2. 💬 Commented on [#9104](https://github.com/aws-amplify/amplify-js/issues/9104#issuecomment-1709331234) in [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js)<br>
+3. 💪 Opened PR [#133](https://github.com/urql-graphql/urql-devtools-exchange/pull/133) in [urql-graphql/urql-devtools-exchange](https://github.com/urql-graphql/urql-devtools-exchange)<br>
+4. ⬆️ Pushed 1 commit(s) to [JDMathew/urql-devtools-exchange](https://github.com/JDMathew/urql-devtools-exchange)<br>
+5. ⭐ Starred [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 7th, 2023, 12:24:48 AM
+Last Updated: Friday, September 8th, 2023, 12:24:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
