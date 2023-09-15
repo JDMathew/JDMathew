@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#144](https://github.com/FormidableLabs/react-native-ama/issues/144) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
-2. ❗️ Opened issue [#143](https://github.com/FormidableLabs/react-native-ama/issues/143) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
-3. 💬 Commented on [#135](https://github.com/FormidableLabs/react-native-ama/issues/135#issuecomment-1717852877) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
-4. 💪 Opened PR [#141](https://github.com/FormidableLabs/react-native-ama/pull/141) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+1. ⬆️ Pushed 1 commit(s) to [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+2. 🎉 Merged PR [#157](https://github.com/FormidableLabs/react-native-ama/pull/157) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+3. 💪 Opened PR [#157](https://github.com/FormidableLabs/react-native-ama/pull/157) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+4. ✔️ Closed issue [#154](https://github.com/FormidableLabs/react-native-ama/issues/154) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
 5. ⬆️ Pushed 1 commit(s) to [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 14th, 2023, 12:25:09 AM
+Last Updated: Friday, September 15th, 2023, 12:25:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
