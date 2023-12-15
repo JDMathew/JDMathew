@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#146](https://github.com/swellstores/swell-js/pull/146) in [swellstores/swell-js](https://github.com/swellstores/swell-js)<br>
+1. 💪 Opened PR [#147](https://github.com/swellstores/swell-js/pull/147) in [swellstores/swell-js](https://github.com/swellstores/swell-js)<br>
 2. ⬆️ Pushed 1 commit(s) to [JDMathew/swell-js](https://github.com/JDMathew/swell-js)<br>
-3. ⬆️ Pushed 1 commit(s) to [JDMathew/swell-js](https://github.com/JDMathew/swell-js)<br>
-4. 💪 Opened PR [#145](https://github.com/swellstores/swell-js/pull/145) in [swellstores/swell-js](https://github.com/swellstores/swell-js)<br>
+3. ⬆️ Pushed 2 commit(s) to [JDMathew/swell-js](https://github.com/JDMathew/swell-js)<br>
+4. 💪 Opened PR [#146](https://github.com/swellstores/swell-js/pull/146) in [swellstores/swell-js](https://github.com/swellstores/swell-js)<br>
 5. ⬆️ Pushed 1 commit(s) to [JDMathew/swell-js](https://github.com/JDMathew/swell-js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 14th, 2023, 12:27:36 AM
+Last Updated: Friday, December 15th, 2023, 12:28:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
