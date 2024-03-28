@@ -27,11 +27,12 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [avishayil/react-native-restart](https://github.com/avishayil/react-native-restart)<br>
+1. ⭐ Starred [pmndrs/uikit](https://github.com/pmndrs/uikit)<br>
+2. ⭐ Starred [avishayil/react-native-restart](https://github.com/avishayil/react-native-restart)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 27th, 2024, 12:26:26 AM
+Last Updated: Thursday, March 28th, 2024, 12:26:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
