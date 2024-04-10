@@ -27,12 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pmndrs/uikit](https://github.com/pmndrs/uikit)<br>
-2. ⭐ Starred [avishayil/react-native-restart](https://github.com/avishayil/react-native-restart)<br>
+1. ⭐ Starred [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)<br>
+2. ⭐ Starred [merisbahti/klyva](https://github.com/merisbahti/klyva)<br>
+3. ⭐ Starred [ngneat/elf](https://github.com/ngneat/elf)<br>
+4. ⭐ Starred [pmndrs/uikit](https://github.com/pmndrs/uikit)<br>
+5. ⭐ Starred [avishayil/react-native-restart](https://github.com/avishayil/react-native-restart)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 9th, 2024, 12:27:38 AM
+Last Updated: Wednesday, April 10th, 2024, 12:27:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
