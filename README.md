@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#10894](https://github.com/react-navigation/react-navigation/issues/10894#issuecomment-2065221820) in [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)<br>
-2. ⭐ Starred [akheron/optics-ts](https://github.com/akheron/optics-ts)<br>
-3. ⭐ Starred [statelyai/xstate](https://github.com/statelyai/xstate)<br>
-4. ⭐ Starred [mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)<br>
-5. ⭐ Starred [pmndrs/react-spring](https://github.com/pmndrs/react-spring)<br>
+1. ⭐ Starred [skb1129/react-native-change-icon](https://github.com/skb1129/react-native-change-icon)<br>
+2. ⭐ Starred [mhnpd/react-loader-spinner](https://github.com/mhnpd/react-loader-spinner)<br>
+3. 💬 Commented on [#10894](https://github.com/react-navigation/react-navigation/issues/10894#issuecomment-2065221820) in [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation)<br>
+4. ⭐ Starred [akheron/optics-ts](https://github.com/akheron/optics-ts)<br>
+5. ⭐ Starred [statelyai/xstate](https://github.com/statelyai/xstate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 28th, 2024, 12:30:57 AM
+Last Updated: Monday, April 29th, 2024, 12:28:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
