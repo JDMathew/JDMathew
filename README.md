@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#7779](https://github.com/invertase/react-native-firebase/issues/7779) in [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase)<br>
-2. ⬆️ Pushed 1 commit(s) to [JDMathew/react-native-version-number](https://github.com/JDMathew/react-native-version-number)<br>
-3. 💬 Commented on [#52](https://github.com/APSL/react-native-version-number/pull/52#issuecomment-2093880542) in [APSL/react-native-version-number](https://github.com/APSL/react-native-version-number)<br>
-4. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
-5. ⭐ Starred [pmadruga/react-native-clean-project](https://github.com/pmadruga/react-native-clean-project)<br>
+1. 💬 Commented on [#1824](https://github.com/gorhom/react-native-bottom-sheet/issues/1824#issuecomment-2096632839) in [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)<br>
+2. ❗️ Opened issue [#7779](https://github.com/invertase/react-native-firebase/issues/7779) in [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase)<br>
+3. ⬆️ Pushed 1 commit(s) to [JDMathew/react-native-version-number](https://github.com/JDMathew/react-native-version-number)<br>
+4. 💬 Commented on [#52](https://github.com/APSL/react-native-version-number/pull/52#issuecomment-2093880542) in [APSL/react-native-version-number](https://github.com/APSL/react-native-version-number)<br>
+5. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 6th, 2024, 12:28:56 AM
+Last Updated: Tuesday, May 7th, 2024, 12:28:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
