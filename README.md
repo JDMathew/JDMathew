@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nandorojo/moti](https://github.com/nandorojo/moti)<br>
-2. ⭐ Starred [nandorojo/burnt](https://github.com/nandorojo/burnt)<br>
-3. ⭐ Starred [nandorojo/zeego](https://github.com/nandorojo/zeego)<br>
-4. ⭐ Starred [omgovich/colord](https://github.com/omgovich/colord)<br>
-5. ⭐ Starred [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv)<br>
+1. ⭐ Starred [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)<br>
+2. ⭐ Starred [nandorojo/moti](https://github.com/nandorojo/moti)<br>
+3. ⭐ Starred [nandorojo/burnt](https://github.com/nandorojo/burnt)<br>
+4. ⭐ Starred [nandorojo/zeego](https://github.com/nandorojo/zeego)<br>
+5. ⭐ Starred [omgovich/colord](https://github.com/omgovich/colord)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 15th, 2024, 12:28:41 AM
+Last Updated: Thursday, May 16th, 2024, 12:28:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
