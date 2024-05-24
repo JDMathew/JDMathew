@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rdeneau/ts-maybe-type](https://github.com/rdeneau/ts-maybe-type)<br>
-2. 💬 Commented on [#159](https://github.com/yargs/cliui/issues/159#issuecomment-2121846734) in [yargs/cliui](https://github.com/yargs/cliui)<br>
-3. 💪 Opened PR [#899](https://github.com/react-native-datetimepicker/datetimepicker/pull/899) in [react-native-datetimepicker/datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker)<br>
+1. ⭐ Starred [annexare/Countries](https://github.com/annexare/Countries)<br>
+2. ❗️ Opened issue [#274](https://github.com/hoaphantn7604/react-native-element-dropdown/issues/274) in [hoaphantn7604/react-native-element-dropdown](https://github.com/hoaphantn7604/react-native-element-dropdown)<br>
+3. 💬 Commented on [#899](https://github.com/react-native-datetimepicker/datetimepicker/pull/899#issuecomment-2126459868) in [react-native-datetimepicker/datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker)<br>
 4. ⬆️ Pushed 1 commit(s) to [JDMathew/datetimepicker](https://github.com/JDMathew/datetimepicker)<br>
-5. 🔱 Forked [JDMathew/datetimepicker](https://github.com/JDMathew/datetimepicker) from [react-native-datetimepicker/datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker)<br>
+5. ⭐ Starred [JedWatson/react-select](https://github.com/JedWatson/react-select)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 23rd, 2024, 12:28:40 AM
+Last Updated: Friday, May 24th, 2024, 12:29:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
