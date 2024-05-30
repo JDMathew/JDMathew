@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#274](https://github.com/hoaphantn7604/react-native-element-dropdown/issues/274#issuecomment-2134373828) in [hoaphantn7604/react-native-element-dropdown](https://github.com/hoaphantn7604/react-native-element-dropdown)<br>
-2. ⭐ Starred [azeezat/react-native-select](https://github.com/azeezat/react-native-select)<br>
-3. 🔱 Forked [JDMathew/countries-states-cities-database](https://github.com/JDMathew/countries-states-cities-database) from [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)<br>
-4. ⭐ Starred [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)<br>
-5. ⭐ Starred [annexare/Countries](https://github.com/annexare/Countries)<br>
+1. 👍 Approved [#253](https://github.com/hoaphantn7604/react-native-element-dropdown/pull/253#pullrequestreview-2086128181) in [hoaphantn7604/react-native-element-dropdown](https://github.com/hoaphantn7604/react-native-element-dropdown)<br>
+2. 💬 Commented on [#253](https://github.com/hoaphantn7604/react-native-element-dropdown/pull/253#issuecomment-2138023682) in [hoaphantn7604/react-native-element-dropdown](https://github.com/hoaphantn7604/react-native-element-dropdown)<br>
+3. 💬 Commented on [#274](https://github.com/hoaphantn7604/react-native-element-dropdown/issues/274#issuecomment-2138017141) in [hoaphantn7604/react-native-element-dropdown](https://github.com/hoaphantn7604/react-native-element-dropdown)<br>
+4. 💬 Commented on [#274](https://github.com/hoaphantn7604/react-native-element-dropdown/issues/274#issuecomment-2134373828) in [hoaphantn7604/react-native-element-dropdown](https://github.com/hoaphantn7604/react-native-element-dropdown)<br>
+5. ⭐ Starred [azeezat/react-native-select](https://github.com/azeezat/react-native-select)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 29th, 2024, 12:30:21 AM
+Last Updated: Thursday, May 30th, 2024, 12:29:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
