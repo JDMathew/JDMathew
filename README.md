@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1608](https://github.com/aws-amplify/amplify-backend/issues/1608#issuecomment-2148219990) in [aws-amplify/amplify-backend](https://github.com/aws-amplify/amplify-backend)<br>
-2. ❗️ Opened issue [#1608](https://github.com/aws-amplify/amplify-backend/issues/1608) in [aws-amplify/amplify-backend](https://github.com/aws-amplify/amplify-backend)<br>
-3. 💬 Commented on [#7779](https://github.com/invertase/react-native-firebase/issues/7779#issuecomment-2146185652) in [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase)<br>
-4. 💬 Commented on [#721](https://github.com/react-native-netinfo/react-native-netinfo/pull/721#issuecomment-2138461760) in [react-native-netinfo/react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo)<br>
-5. 👍 Approved [#253](https://github.com/hoaphantn7604/react-native-element-dropdown/pull/253#pullrequestreview-2086128181) in [hoaphantn7604/react-native-element-dropdown](https://github.com/hoaphantn7604/react-native-element-dropdown)<br>
+1. 💬 Commented on [#2307](https://github.com/aws-amplify/amplify-category-api/issues/2307#issuecomment-2163985189) in [aws-amplify/amplify-category-api](https://github.com/aws-amplify/amplify-category-api)<br>
+2. 💬 Commented on [#875](https://github.com/aws-amplify/amplify-backend/issues/875#issuecomment-2161789688) in [aws-amplify/amplify-backend](https://github.com/aws-amplify/amplify-backend)<br>
+3. 💬 Commented on [#1608](https://github.com/aws-amplify/amplify-backend/issues/1608#issuecomment-2148219990) in [aws-amplify/amplify-backend](https://github.com/aws-amplify/amplify-backend)<br>
+4. ❗️ Opened issue [#1608](https://github.com/aws-amplify/amplify-backend/issues/1608) in [aws-amplify/amplify-backend](https://github.com/aws-amplify/amplify-backend)<br>
+5. 💬 Commented on [#7779](https://github.com/invertase/react-native-firebase/issues/7779#issuecomment-2146185652) in [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 12th, 2024, 12:29:57 AM
+Last Updated: Thursday, June 13th, 2024, 12:29:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
