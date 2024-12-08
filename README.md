@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [portabletext/portabletext](https://github.com/portabletext/portabletext)<br>
-2. 💪 Opened PR [#288](https://github.com/FormidableLabs/react-native-ama/pull/288) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
-3. ⬆️ Pushed 1 commit(s) to [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
-4. 🎉 Merged PR [#287](https://github.com/FormidableLabs/react-native-ama/pull/287) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
-5. ⬆️ Pushed 1 commit(s) to [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+1. ⭐ Starred [sanity-io/next-sanity](https://github.com/sanity-io/next-sanity)<br>
+2. ⭐ Starred [portabletext/portabletext](https://github.com/portabletext/portabletext)<br>
+3. 💪 Opened PR [#288](https://github.com/FormidableLabs/react-native-ama/pull/288) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+4. ⬆️ Pushed 1 commit(s) to [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+5. 🎉 Merged PR [#287](https://github.com/FormidableLabs/react-native-ama/pull/287) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 7th, 2024, 12:39:26 AM
+Last Updated: Sunday, December 8th, 2024, 12:43:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
