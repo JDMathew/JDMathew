@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vercel/swr](https://github.com/vercel/swr)<br>
-2. ⭐ Starred [realm/realm-js](https://github.com/realm/realm-js)<br>
-3. ⭐ Starred [LegendApp/legend-state](https://github.com/LegendApp/legend-state)<br>
-4. ⭐ Starred [sanity-io/next-sanity](https://github.com/sanity-io/next-sanity)<br>
-5. ⭐ Starred [portabletext/portabletext](https://github.com/portabletext/portabletext)<br>
+1. ⭐ Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)<br>
+2. ⭐ Starred [vercel/swr](https://github.com/vercel/swr)<br>
+3. ⭐ Starred [realm/realm-js](https://github.com/realm/realm-js)<br>
+4. ⭐ Starred [LegendApp/legend-state](https://github.com/LegendApp/legend-state)<br>
+5. ⭐ Starred [sanity-io/next-sanity](https://github.com/sanity-io/next-sanity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 11th, 2024, 12:40:24 AM
+Last Updated: Thursday, December 12th, 2024, 12:40:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
