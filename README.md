@@ -27,11 +27,14 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#424](https://github.com/aws-amplify/amplify-data/issues/424#issuecomment-2833604467) in [aws-amplify/amplify-data](https://github.com/aws-amplify/amplify-data)<br>
+1. ⭐ Starred [xerdnu/react-native-blasted-image](https://github.com/xerdnu/react-native-blasted-image)<br>
+2. ⭐ Starred [dream-sports-labs/react-native-fast-image](https://github.com/dream-sports-labs/react-native-fast-image)<br>
+3. ❗️ Opened issue [#316](https://github.com/FormidableLabs/react-native-ama/issues/316) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+4. 💬 Commented on [#424](https://github.com/aws-amplify/amplify-data/issues/424#issuecomment-2833604467) in [aws-amplify/amplify-data](https://github.com/aws-amplify/amplify-data)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 29th, 2025, 12:41:41 AM
+Last Updated: Wednesday, April 30th, 2025, 12:41:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
