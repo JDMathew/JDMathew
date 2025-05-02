@@ -27,14 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xerdnu/react-native-blasted-image](https://github.com/xerdnu/react-native-blasted-image)<br>
-2. ⭐ Starred [dream-sports-labs/react-native-fast-image](https://github.com/dream-sports-labs/react-native-fast-image)<br>
-3. ❗️ Opened issue [#316](https://github.com/FormidableLabs/react-native-ama/issues/316) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
-4. 💬 Commented on [#424](https://github.com/aws-amplify/amplify-data/issues/424#issuecomment-2833604467) in [aws-amplify/amplify-data](https://github.com/aws-amplify/amplify-data)<br>
+1. 💬 Commented on [#255](https://github.com/aws-amplify/amplify-data/pull/255#issuecomment-2844382740) in [aws-amplify/amplify-data](https://github.com/aws-amplify/amplify-data)<br>
+2. 💪 Opened PR [#317](https://github.com/FormidableLabs/react-native-ama/pull/317) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+3. ⬆️ Pushed 1 commit(s) to [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+4. ⭐ Starred [xerdnu/react-native-blasted-image](https://github.com/xerdnu/react-native-blasted-image)<br>
+5. ⭐ Starred [dream-sports-labs/react-native-fast-image](https://github.com/dream-sports-labs/react-native-fast-image)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 1st, 2025, 12:47:17 AM
+Last Updated: Friday, May 2nd, 2025, 12:42:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
