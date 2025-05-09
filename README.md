@@ -27,15 +27,15 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#51150](https://github.com/facebook/react-native/issues/51150) in [facebook/react-native](https://github.com/facebook/react-native)<br>
-2. 💬 Commented on [#255](https://github.com/aws-amplify/amplify-data/pull/255#issuecomment-2844382740) in [aws-amplify/amplify-data](https://github.com/aws-amplify/amplify-data)<br>
-3. 💪 Opened PR [#317](https://github.com/FormidableLabs/react-native-ama/pull/317) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
-4. ⬆️ Pushed 1 commit(s) to [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
-5. ⭐ Starred [xerdnu/react-native-blasted-image](https://github.com/xerdnu/react-native-blasted-image)<br>
+1. ⬆️ Pushed 2628 commit(s) to [JDMathew/react-native](https://github.com/JDMathew/react-native)<br>
+2. ❗️ Opened issue [#51150](https://github.com/facebook/react-native/issues/51150) in [facebook/react-native](https://github.com/facebook/react-native)<br>
+3. 💬 Commented on [#255](https://github.com/aws-amplify/amplify-data/pull/255#issuecomment-2844382740) in [aws-amplify/amplify-data](https://github.com/aws-amplify/amplify-data)<br>
+4. 💪 Opened PR [#317](https://github.com/FormidableLabs/react-native-ama/pull/317) in [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
+5. ⬆️ Pushed 1 commit(s) to [FormidableLabs/react-native-ama](https://github.com/FormidableLabs/react-native-ama)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 8th, 2025, 12:42:53 AM
+Last Updated: Friday, May 9th, 2025, 12:42:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
