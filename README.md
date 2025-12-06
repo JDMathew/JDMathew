@@ -27,12 +27,14 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [moment/luxon](https://github.com/moment/luxon)<br>
-2. ⬆️ Pushed undefined commit(s) to [JDMathew/eli-test-scanner](https://github.com/JDMathew/eli-test-scanner)<br>
+1. ⭐ Starred [Project-OSRM/osrm-frontend](https://github.com/Project-OSRM/osrm-frontend)<br>
+2. ⭐ Starred [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend)<br>
+3. ⭐ Starred [moment/luxon](https://github.com/moment/luxon)<br>
+4. ⬆️ Pushed undefined commit(s) to [JDMathew/eli-test-scanner](https://github.com/JDMathew/eli-test-scanner)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 5th, 2025, 12:44:36 AM
+Last Updated: Saturday, December 6th, 2025, 12:42:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
