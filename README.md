@@ -29,11 +29,10 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Project-OSRM/osrm-frontend](https://github.com/Project-OSRM/osrm-frontend)<br>
 2. ⭐ Starred [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend)<br>
-3. ⭐ Starred [moment/luxon](https://github.com/moment/luxon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 20th, 2025, 12:42:50 AM
+Last Updated: Sunday, December 21st, 2025, 12:50:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
