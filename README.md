@@ -27,12 +27,10 @@ I am a Full Stack Developer, with a focus on Mobile application, 7+ years of exp
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Project-OSRM/osrm-frontend](https://github.com/Project-OSRM/osrm-frontend)<br>
-2. ⭐ Starred [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 5th, 2026, 12:53:01 AM
+Last Updated: Tuesday, January 6th, 2026, 12:47:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
